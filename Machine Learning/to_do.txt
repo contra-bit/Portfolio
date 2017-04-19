@@ -1,0 +1,3 @@
+To do: 
+
+Add: Decision Trees, Random Forrests, K nearest Neighbors, K Means Clustering, and Logistic Regression
