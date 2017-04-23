@@ -2,8 +2,8 @@
 A collection of miscellaneous work: Using Jupyter Notebook I explore current Data Sets of our World. Using State of the Art Algorithms I utilize Artificial Inteligence to make Data understandable and accessible for us
 
 ## Data Capstone Projects:
-  * [Predicting 911 Emergencys in Montomery, PA](https://github.com/contra-bit/Portfolio/blob/master/Data%20Capstone%20Project/911%20Calls%20Data%20Capstone%20Project.ipynb)
-  * [Exploratory Data Analysis of Stock Prices](https://github.com/contra-bit/Portfolio/blob/master/Data%20Capstone%20Project/Finance%20Project%20.ipynb)
+ * [Exploratory Data Analysis of Stock Prices](https://github.com/contra-bit/Portfolio/blob/master/Data%20Capstone%20Project/Finance%20Project%20.ipynb)
+* [Predicting 911 Emergencys in Montomery, PA](https://github.com/contra-bit/Portfolio/blob/master/Data%20Capstone%20Project/911%20Calls%20Data%20Capstone%20Project.ipynb)
 
 ## Here are some choice examples:
   * [Ecommerce Contract Work](https://github.com/contra-bit/Portfolio/blob/master/Machine%20Learning/Linear%20Regression%20-%20Project.ipynb)
