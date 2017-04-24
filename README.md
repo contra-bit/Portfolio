@@ -8,7 +8,7 @@ A collection of miscellaneous work: using Jupyter Notebook I present Data Sets o
 ## Here are some choice examples:
   * [Ecommerce Contract Work](https://github.com/contra-bit/Portfolio/blob/master/Machine%20Learning/Linear%20Regression%20-%20Project.ipynb) Data Driven Descisions
   * [The Titanic Visualized](https://github.com/contra-bit/Portfolio/blob/master/Data%20Visualization/Seaborn%20Data%20Visualisation.ipynb) Exploring Events using Data
-  * [Interactive JS Data Visualisation]https://anaconda.org/gwinnen/interactive-data-visualisation-with-cufflinks-and-plotly/notebook) (redirects to anaconda.org)
+  * [Interactive JS Data Visualisation](https://anaconda.org/gwinnen/interactive-data-visualisation-with-cufflinks-and-plotly/notebook) (redirects to anaconda.org)
  * [Real Time Tweet Analysis](https://github.com/contra-bit/Portfolio/blob/master/Natural%20Language%20Proccesing/Twitter%20Sentiment%20Analysis%20with%20%20TextBlob.ipynb) Alpha  
  * [Ecommerce Sales Analysed with Pandas](https://github.com/contra-bit/Portfolio/blob/master/Data%20Analysis/Ecommerce%20Purchases%20for%20Data%20Analysis.ipynb)
   * [Machine Learning Section](https://github.com/contra-bit/Portfolio/tree/master/Machine%20Learning)
