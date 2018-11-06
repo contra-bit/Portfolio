@@ -1,6 +1,9 @@
 # Portfolio of Liam Hurwitz
 A collection of miscellaneous work: using Jupyter Notebook I present Data Sets of our World. Analysing, Visualising and Predicting are the core of my work. Utilizing artificial inteligence to make data understandable and accessible is a common goal of the AI Community. I would like to share my insights with the world. Here are some choice examples:
 
+## Projekt aus der Zeit an der Universität Bremen
+* [IoT Arxtpraxis auf Basis von Arduino und Django](https://github.com/contra-bit/django) Möglichkeiten: Einchecken, Zähler der Personen im Raum mit Laser, Management Oberfläche für Angestellte. 
+
 ## Data Capstone Projects:
  * [Exploratory Data Analysis of Stock Prices](https://github.com/contra-bit/Portfolio/blob/master/Data%20Capstone%20Project/Finance%20Project%20.ipynb) 2006 - 2017. Featuring the 6 Banks
 * [Predicting 911 Emergencys in Montomery, PA](https://github.com/contra-bit/Portfolio/blob/master/Data%20Capstone%20Project/911%20Calls%20Data%20Capstone%20Project.ipynb) Real World Big Data
