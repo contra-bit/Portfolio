@@ -15,4 +15,4 @@ A collection of miscellaneous work: using Jupyter Notebook I present Data Sets o
   
 ## Projekt aus der Zeit an der Universität Bremen
 [IoT Arxtpraxis auf Basis von Arduino und Django](https://github.com/contra-bit/django) Möglichkeiten: Einchecken, Zähler der Personen im Raum mit Laser, Management Oberfläche für Angestellte. 
-<embed src="files/Brochure.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="https://github.com/contra-bit/Portfolio/raw/master/Abgabe.pdf" type="application/pdf" width="100%" height="600px" />
